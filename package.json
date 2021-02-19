@@ -1,0 +1,16 @@
+{
+  "name": "ApresentacaoJSES6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_find_methods.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
