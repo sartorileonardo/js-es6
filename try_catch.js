@@ -1,7 +1,5 @@
 const Calculator = require("./calculator");
 
-const div = (firstNumber, secondNumber) => firstNumber / secondNumber;
-
 try {
     console.log("10 / 5 = " + Calculator.div(0, 0));
     //Show error
