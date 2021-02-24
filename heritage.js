@@ -1,7 +1,5 @@
 class Animal {
-    constructor(){
-        
-    }
+    isFree = true;
 }
 
 class Bird extends Animal {
@@ -19,7 +17,10 @@ class Dog extends Animal {
 }
 
 const myBird = new Bird(40);
+myBird.isFree = false;
 const myDog = new Dog(20);
 
+console.log(myBird.isFree);
 
-console.table(new Array(myBird, myDog));
+
+//console.table(new Array(myBird, myDog));
