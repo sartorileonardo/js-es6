@@ -7,6 +7,8 @@
 - Arrow function;​
 - Default Parameter;​
 - Rest Parameter;​
+- Interpolation;
+- Static;
 - Merge objects;​
 - Try/Catch;​
 
