@@ -1,14 +1,16 @@
 # js-es6
 
 # Topics ES6 here
-- Var, Let e Const;
-- For loops;
-- Class;
-- Arrow function;
-- Default Parameter;
-- Rest Parameter;
-- Promise;
-- Plus: Calculator and test with Mocha.js;
+- Var, Let e Const;​
+- For loops;​
+- Class;​
+- Arrow function;​
+- Default Parameter;​
+- Rest Parameter;​
+- Merge objects;​
+- Try/Catch;​
+
+Plus: Calculator and test with Mocha.js;
 
 # All topics to ES6
 https://262.ecma-international.org/6.0/
