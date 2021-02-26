@@ -1,7 +1,7 @@
 const Calculator = require("./calculator");
 
 try {
-    console.log("10 / 5 = " + Calculator.div(0, 0));
+    console.log("10 / 5 = " + Calculator.div(10, 5));
     //Show error
     //Calculator.sqrt(25);
 } catch (error) {
