@@ -1,7 +1,7 @@
 const languages = ["Java", "Python", "JavaScript", "C", "C#", "C++", "Go"];
 const otherLanguages = new Array("Lua", "Haskel", "Assembly");
 
-//Exist blue in list ?
+//Exist Java in list ?
 console.log(languages.includes("Java"));
 
 //How to add new element ?
